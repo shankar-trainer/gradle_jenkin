@@ -29,7 +29,8 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'gradle_prj3.App'
+    //mainClass = 'gradle_prj3.App'
+    mainClass = 'com.capg.beans.FactorialMain'
 }
 
 tasks.named('test') {
